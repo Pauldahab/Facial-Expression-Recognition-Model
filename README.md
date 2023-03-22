@@ -1,5 +1,5 @@
 # Facial-Expression-Recognition-Model
-# My custom facial expression recognition model uses the YOLO (You Only Look Once) object detection framework to accurately and efficiently detect if a person is awake or drowsy based on their facial expressions.
+This custom facial expression recognition model uses the YOLO (You Only Look Once) object detection framework to accurately and efficiently detect if a person is awake or drowsy based on their facial expressions.
 
 To train my model, i utilized custom datasets of images that captured a range of facial expressions indicating both awake and drowsy states. I carefully curated these datasets to ensure that they included a diverse range of facial expressions, lighting conditions, and backgrounds, in order to improve the robustness of my model.
 
